@@ -84,5 +84,5 @@ Next, I did calculate the RMSE metric for the model using excel and the result i
 So with a RMSE value of approximately 1 we can say the model is pretty good in predicting the tip.
 Lastly, I plotted a line graph depicting predicted vs actual tip using  excel.
 
-![graph]()
+![graph](https://drive.google.com/drive/my-drive/graph.png)
 
