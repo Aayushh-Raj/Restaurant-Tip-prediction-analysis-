@@ -70,8 +70,8 @@ ANOVA
 
 This improved the statistics of prediction model for the tip and so the formula to predict tip based on above stats is as follows,
 
-##     (predicted tip) = Intercept + (Coefficient of size) x (Size variable) + (Coefficient of total bill) x (total bill variable)
-##                                  Y = 0.67 + 0.19 (Size variable) + 0.09 (Total bill variable)
+###       (predicted tip) = Intercept + (Coefficient of size) x (Size variable) + (Coefficient of total bill) x (total bill variable)
+###                                     Y = 0.67 + 0.19 (Size variable) + 0.09 (Total bill variable)
 
 I applied this formula in excel on a predicted tip column to generate the predicted tip.
 Next, I did calculate the RMSE metric for the model using excel and the result is as follows,
